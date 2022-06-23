@@ -1,3 +1,2 @@
 # login-template
-Just a node passport mongo login template
-test
+Just a node passport login template
